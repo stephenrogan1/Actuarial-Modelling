@@ -1,0 +1,9 @@
+# Temporary output files
+output.txt
+output_full.txt
+test_questions.txt
+
+# R history and session files
+.Rhistory
+.RData
+.Rproj.user
